@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+openai
+python-dotenv
+langsmith
+tiktoken
+ipykernel
+notebook
+beautifulsoup4   
+faiss-cpu
